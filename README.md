@@ -1,6 +1,6 @@
 # Ransomeware Incident Response
 
-###Analyzing a ransomware attack on a healthcare clinic, focusing on incident documentation, response, and prevention.
+### Analyzing a ransomware attack on a healthcare clinic, focusing on incident documentation, response, and prevention.
 
 RANSOMEWARE ATTACK ON A SMALL HEALTHCARE CLINIC
 
